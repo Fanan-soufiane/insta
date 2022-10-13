@@ -23,7 +23,7 @@ def main (main):
     fx9 = input (" \033[1;30m  errors you have a phone redmi xiaomi !!  ==> \033[1;30m")
     time.sleep(0.2)
     if fx9 == 'mey_hdi_el7' :
-            os.system ('python rot.py')
+            os.system ('python rot.py') 
             restart ()
     elif fx9 == 'https://instagram.com/me_hdi_el7?igshid=YmMyMTA2M2Y=' :
             os.system ('python rot.py')
